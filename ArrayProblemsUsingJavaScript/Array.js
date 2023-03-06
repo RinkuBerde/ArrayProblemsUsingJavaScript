@@ -1,0 +1,1 @@
+console.log("Welcome to Array Problems Using Java Script");
